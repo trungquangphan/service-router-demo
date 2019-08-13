@@ -12,7 +12,7 @@ import { DictionaryDetailComponent } from './components/dictionary-detail/dictio
     AppComponent,
     DictionaryComponent,
     DictionaryPageComponent,
-    DictionaryDetailComponent
+    DictionaryDetailComponent,
   ],
   imports: [
     BrowserModule,
